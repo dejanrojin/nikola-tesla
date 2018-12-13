@@ -1,0 +1,190 @@
+
+@media screen and (max-width:1366px) { 
+p#telasajt {
+  
+    font-size: 40px;
+    padding: 3px;
+    margin-left: 575px;
+}
+
+
+
+
+h1#textizumi {
+    margin-left: 440px;
+    opacity:0;
+}
+
+p#textizumi {
+    margin-left: 440px;
+    font-size: 22px;opacity:0;
+}
+
+p#textizumi1 {
+    margin-left: 440px;
+    font-size: 22px;opacity:0;
+}
+p#textizumi2 {
+    margin-left: 440px;
+    font-size: 22px;
+	opacity:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1#textizumi.naslov1 {
+    margin-left: 940px;
+    opacity: 1;
+}
+
+p#textizumi.naslov1 { opacity: 1;
+    margin-left: 940px;
+    font-size: 22px;
+}
+
+p#textizumi1.naslov1 { opacity: 1;
+    margin-left: 940px;
+    font-size: 22px;
+}
+p#textizumi2.naslov1 { opacity: 1;
+    margin-left: 940px;
+    font-size: 22px;
+}
+
+div#potpisfooter img.pokazi {
+    opacity: 1;
+}
+
+div#potpisfooter img {
+    opacity: 1;
+}
+
+
+}
+
+
+/*Tablet uredjaji*/
+@media screen and (min-width:768px) and (max-width:1023px) { 
+
+
+p#telasajt {
+   
+    margin-left: 276px;
+
+}
+
+h1#textotesli {
+    margin-left: -300px;
+    margin-top: 200px;
+font-size: 44px;}
+
+
+p#textotesli {
+font-size: 18px;}
+
+
+
+p#textotesli.naslov {
+font-size: 18px;}
+
+
+
+h1#textizumi.naslov1 {
+    margin-left: 500px;
+    opacity: 1;
+}
+
+h1#textizumi {
+    margin-left: 100px;
+    margin-top: 200px;
+font-size: 37px;}
+
+
+
+p#textizumi.naslov1 {
+    margin-left: 500px;
+    font-size: 18px;
+}
+
+
+p#textizumi1.naslov1 {
+    margin-left: 500px;
+    font-size: 18px;
+}
+
+p#textizumi2.naslov1 {
+    margin-left: 500px;
+    font-size: 18px;
+}
+
+h1#transformatorh1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+h1#transformatorbgh1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+div#transformator {
+       margin-bottom: 60px;
+    font-size: 16px;
+}
+	
+img#grb {
+    width: 120px;
+    height: 120px;
+}
+p#transformatortext {
+    font-size: 15px;
+}
+
+div#kontaktfield {
+    opacity: 1;	
+
+}
+
+a#face{
+    margin-left: -100px;
+    opacity: 1;
+}
+
+a#pint {
+    margin-left: 40px;
+    margin-top: -30px;
+    position: absolute;
+    border-top: 1px solid #000;
+    padding: 10px;
+}
+div#kontaktfield{
+    opacity: 1;
+    margin-top: 70px;
+}
+
+
+p#adress {
+    font-size: 17px;
+}
+
+p#phone{
+	
+	  font-size: 17px;
+	
+}
+
+}
