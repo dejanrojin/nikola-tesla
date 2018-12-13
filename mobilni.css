@@ -1,0 +1,129 @@
+
+
+
+
+/*mobilni telefon*/
+
+@media screen and (max-width:480px) { 
+p#telasajt {
+ 
+    margin-left: 95px;
+
+}
+
+h1#transformatorh1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img#grb {
+    display: none;
+}
+
+
+div#slika1 {
+   
+    box-shadow: inset 400px 400px 400px #fff;
+}
+
+div#slika2 {
+   
+    box-shadow: inset 400px 400px 400px #fff;
+}
+
+.navbar-nav {
+    display: -webkit-inline-box;
+    margin: 7.5px -15px;
+}
+
+
+ul.nav.navbar-nav li a {
+font-size: 15px;}
+
+
+
+
+h1#textizumi {
+    margin-left: 170px;
+    opacity: 0;
+	    font-size: 30px;
+
+}
+
+p#textizumi {
+    margin-left: 170px;
+    font-size: 15px;opacity: 0;
+}
+
+p#textizumi1 {
+    margin-left: 170px;
+    font-size: 15px;opacity: 0;
+}
+
+
+p#textizumi2 {
+    margin-left: 170px;
+    font-size: 15px;opacity: 0;
+}
+
+
+
+
+
+
+
+h1#textizumi.naslov1 {
+    margin-left: 170px;
+    opacity: 1;
+	    font-size: 30px;
+
+}
+
+p#textizumi.naslov1 {
+    margin-left: 170px;
+    font-size: 15px;opacity: 1;
+}
+
+p#textizumi1.naslov1 {opacity: 1;
+    margin-left: 170px;
+    font-size: 15px;
+}
+
+
+p#textizumi2.naslov1 {opacity: 1;
+    margin-left: 170px;
+    font-size: 15px;
+}
+
+
+textarea {
+width: 250px;}
+footer#footer {
+    height: 320px;
+}
+p#teslinsajt {
+ 
+font-size: 23px;}
+
+ul#uli a {
+    font-family: serif;
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+    margin-left: -30px;
+    line-height: 40px;
+}
+
+div#potpisfooter {
+    display: none;
+}
+
+
+div#kontaktfield {
+    
+    margin-left: -23px;
+}
+
+
+
+}

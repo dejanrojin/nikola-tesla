@@ -1,0 +1,1023 @@
+
+
+#textic {
+    float: right;
+}
+
+div#demos {
+    color: #000;
+}
+
+ul.nav.navbar-nav:hover {
+    cursor: pointer;
+}
+
+.navbar-default {
+background-color: rgba(248, 248, 248, 0)!important;
+border-color:rgba(248, 248, 248, 0)!important;
+
+
+}
+
+.jumbotron {
+
+    background-image: url(img/tesla.png)!important;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff !important;
+}
+
+h2#otesli {
+    color: #fff;
+    border: 1px solid #fff;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 400px;
+}
+p#zelja {
+    font-style: italic;
+    color: #ffffff78;
+    font-family: serif;
+}
+.jumbotron {
+	
+    margin-bottom: 0px !important;
+    padding-top: 48px;
+    padding-bottom: 239px !important;
+}
+
+p#telasajt {
+    color: #c4c4c4;
+    font-size: 40px;
+    border: 1px solid;
+    width: 220px;
+    padding: 3px;
+    margin-left: 390px;
+    margin-top: 130px;
+	font-family: serif;
+}
+
+
+@keyframes streladole{
+	
+100%{margin-top:100px;opacity:0;}	
+	
+	
+}
+
+img#potpis1{position:absolute;
+	animation:streladole 2000ms infinite;
+	transition:100ms ease-in;
+	    margin-left: -24px;
+		opacity:1;
+}
+
+ul.nav.navbar-nav li a {
+    font-size: 25px;
+    color: #c4c4c4 !important;
+    font-family: serif;
+}
+
+a#kontakt {
+    background: #ffffff12 !important;
+}
+
+div#slika1 {
+    height: 715px;
+    background-image: url(img/teslaonamapozadina.png);
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+@keyframes slide{
+	100%{
+		opacity:1;
+		    margin-right: 0px;
+	}
+	
+}
+
+div#slika11 {transition:3000ms left;
+	    margin-right: 1100px;
+	animation:slide 3000ms forwards;
+	opacity:0;
+    height: 715px;
+    background-image: url(img/teslaonamatext.png);
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+.navbar-default { margin-top: 1px;
+
+   transition: 500ms all ease;
+   
+    background: rgba(0, 0, 0, 0);
+      position:fixed; 
+ color: #fff !important;
+
+}
+
+
+.navbar-default.change {
+    z-index: 999999;
+    height: 8%;
+    position: fixed;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.86) !important;
+    transition: 500ms all ease;
+    color: #000 !important;
+}
+
+
+
+ul.nav.navbar-nav li a{
+    
+	 color: #fff !important;
+}
+
+ul.nav.navbar-nav li a.change2{
+    
+	 color: #000 !important;
+}
+
+h1#textotesli { margin-left: -300px;
+	    margin-top: 200px;
+    font-size: 50px;
+    font-weight: bold;
+	transition:400ms linear;
+}
+
+h1#textotesli.naslov{
+    margin-left: 0px;
+}
+
+
+
+p#textotesli {margin-left: -390px;
+    font-size: 22px;
+	transition:500ms linear;
+}
+
+p#textotesli1 {margin-left: -390px;
+    font-size: 22px;
+	transition:650ms linear;
+}
+
+p#textotesli2 {margin-left: -390px;
+    font-size: 22px;
+	transition:700ms linear;
+}
+p#textotesli3 {margin-left: -390px;
+    font-size: 22px;
+	transition:850ms linear;
+}
+
+
+
+
+p#textotesli.naslov {
+    font-size: 22px;
+	margin-left: 0px;
+}
+
+p#textotesli1.naslov{
+    font-size: 22px;
+	margin-left: 0px;
+}
+
+p#textotesli2.naslov {
+    font-size: 22px;
+	margin-left: 0px;
+}
+p#textotesli3.naslov {
+    font-size: 22px;
+	margin-left: 0px;
+}
+
+
+
+
+
+
+div#slika2 {
+   
+    background-image: url(img/teslaoizumipoz.png);
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+div#slika3 {
+
+    background-image: url(img/teslatra.gif);
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+
+
+
+@keyframes slide{
+	100%{
+		opacity:1;
+		    margin-right: 0px;
+	}
+	
+}
+
+div#slika22 {transition:3000ms left;
+	    margin-right: 1100px;
+	animation:slide 3000ms forwards;
+	opacity:0;
+    height: 715px;
+    background-image: url(img/izumitext1.png);
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+
+
+
+
+h1#textotesli { margin-left: -300px;
+	    margin-top: 200px;
+    font-size: 50px;
+    font-weight: bold;
+	transition:400ms linear;
+}
+
+h1#textotesli.naslov{
+    margin-left: 0px;
+}
+
+
+
+p#textotesli {margin-left: -390px;
+    font-size: 22px;
+	transition:500ms linear;
+}
+
+p#textotesli1 {margin-left: -390px;
+    font-size: 22px;
+	transition:650ms linear;
+}
+
+p#textotesli2 {margin-left: -390px;
+    font-size: 22px;
+	transition:700ms linear;
+}
+p#textotesli3 {margin-left: -390px;
+    font-size: 22px;
+	transition:850ms linear;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+h1#textizumi {
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 50px;
+    font-weight: bold;
+    transition: 400ms linear;
+    /* float: right; */
+    opacity: 0;
+}
+
+
+
+h1#textizumi.naslov1{
+   margin-left: 670px;
+   opacity:1;
+}
+
+
+
+p#textizumi {margin-left: 390px;
+    font-size: 22px;
+	transition:650ms linear;   
+	
+}
+
+p#textizumi1 {margin-left: 390px;
+    font-size: 22px;
+	transition:800ms linear;    
+
+}
+
+p#textizumi2 {
+	margin-left: 390px;  
+
+    font-size: 22px;
+	transition:950ms linear;
+}
+
+
+
+
+
+p#textizumi.naslov1 {margin-left: 670px;
+    font-size: 22px;
+  
+	
+}
+
+p#textizumi1.naslov1 {margin-left: 670px;
+    font-size: 22px;
+  
+
+}
+
+p#textizumi2.naslov1{
+	margin-left: 670px;  
+
+    font-size: 22px;
+	
+}
+
+div#demodiv {
+    display: -webkit-box;
+}
+
+
+div#transformator {
+    padding: 60px;
+    background: #ffffffd1;
+     font-size: 22px;
+ margin-top: 70px;
+ border-radius:3px;    margin-bottom: 60px;
+}
+
+h1#transformatorh1 {
+    font-size: 50px;
+	font-weight: bold;
+}
+
+
+
+h1#transformatorbgh1 {
+    font-size: 20px;
+	font-weight: bold;
+}
+
+
+p#transformatortext {
+    font-size: 18px;
+}
+
+
+#demo{
+	
+	font-style:italic;
+	margin-top:60px;
+	
+}
+
+#kontaktform{
+	 
+   
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+background:url("img/pozadinakontakt.png");	
+	
+}
+
+
+
+
+div#kontaktfield {
+	transition:1000ms ease-in;
+	opacity:0;
+    padding: 60px;
+    background: #ffffff00;
+
+ margin-top: 180px;
+ border-radius:3px;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+
+div#kontaktfield.form {
+    opacity: 1;
+    margin-top: 70px;
+    background: #fff6;
+    border-radius: 10px;
+    box-shadow: 0 0 4px 5px #000;
+    margin-bottom: 230px;
+}
+
+
+h1#kontaktfield {
+    font-size: 50px;
+	font-weight: bold;
+}
+
+
+
+h1#kontaktfield {
+    font-size: 20px;
+	font-weight: bold;
+}
+
+
+p#kontaktfield {
+    font-size: 18px;
+}
+
+
+#social{
+height:100px;
+background:#000;	
+	
+}
+
+
+div#socialicon {
+    text-align: center;
+}
+
+a#face {margin-left: -220px;opacity:0;
+    margin-top: -30px;
+    position: absolute;      padding: 10px;
+	transition:700ms ease-in;
+	
+}
+a#face.time {margin-left: -100px;
+opacity:1;
+   
+}
+
+
+
+
+a#inst {margin-left: -30px;
+    margin-top: -30px;
+    position: absolute;   padding: 10px;
+}
+
+
+
+a#pint {margin-left:120px;
+    margin-top: -30px;
+    position: absolute;    padding: 10px;	transition:700ms ease-in;
+}
+
+
+a#pint.time1 {margin-left: 40px;
+    margin-top: -30px;
+    position: absolute;  padding: 10px;
+}
+
+
+textarea {
+    background: #fff0 !important;
+}
+
+input {
+    background: #fff0 !important;
+}
+
+div#kontakttext {
+    text-align: center;
+}
+
+
+footer#footer {
+    height: 200px;
+    background: url(img/footer.png);
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    background-size: 100% 100% !important;
+}
+
+
+
+
+
+
+p#textsocial {    border: 1px solid #000;
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+	display:none;
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border: 1px solid #000;
+    background: #0003 !important;
+}
+    button#btn {
+		transition:300ms ease-in;
+    background: #0000;
+    padding: 15px;
+    border: 1px solid #000;
+}
+
+    button#btn:hover {
+    
+	transform:scale(1.06);
+}
+
+
+a#toranj {
+    border: 1px solid #fff;
+    font-style: italic;
+}
+
+ul#uli {
+    text-align: left;
+    list-style: none;
+    line-height: 25px;
+}
+
+p#teslinsajt {    font-family: serif;
+    font-size: 30px;
+    text-align: left;
+}
+
+
+
+ul#uli a {
+    font-family: serif;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+ul#uli a:hover {
+    font-family: serif;
+    color: #fff;
+    font-size: 20px;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+
+div#potpisfooter img {
+    margin-left: 150px;
+    margin-top: 60px;
+	opacity:0;
+	transition:2000ms ease-in;
+}
+
+div#potpisfooter img.pokazi {opacity:1
+   
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1366px) { 
+p#telasajt {
+  
+    font-size: 40px;
+    padding: 3px;
+    margin-left: 575px;
+}
+
+
+
+
+h1#textizumi {
+    margin-left: 440px;
+    opacity:0;
+}
+
+p#textizumi {
+    margin-left: 440px;
+    font-size: 22px;opacity:0;
+}
+
+p#textizumi1 {
+    margin-left: 440px;
+    font-size: 22px;opacity:0;
+}
+p#textizumi2 {
+    margin-left: 440px;
+    font-size: 22px;
+	opacity:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1#textizumi.naslov1 {
+    margin-left: 940px;
+    opacity: 1;
+}
+
+p#textizumi.naslov1 { opacity: 1;
+    margin-left: 940px;
+    font-size: 22px;
+}
+
+p#textizumi1.naslov1 { opacity: 1;
+    margin-left: 940px;
+    font-size: 22px;
+}
+p#textizumi2.naslov1 { opacity: 1;
+    margin-left: 940px;
+    font-size: 22px;
+}
+
+div#potpisfooter img.pokazi {
+    opacity: 1;
+}
+
+div#potpisfooter img {
+    opacity: 1;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 1280px){
+p#telasajt {
+    font-size: 40px;
+    padding: 3px;
+    margin-left: 525px;
+}
+}
+
+
+
+@media screen and (max-width: 1024px){
+p#telasajt {
+    font-size: 40px;
+    padding: 3px;
+margin-left: 400px;
+
+}
+
+h1#textizumi.naslov1 {
+margin-left: 800px;
+margin-top: 150px;
+font-size: 29px;
+}
+
+p#textizumi.naslov1 {
+    opacity: 1;
+	font-size: 22px;
+margin-left: 800px;
+}
+
+p#textizumi1.naslov1 {
+		font-size: 22px;
+    opacity: 1;
+margin-left: 800px;
+}
+
+p#textizumi2.naslov1 {
+		font-size: 22px;
+    opacity: 1;
+margin-left: 800px;
+}
+
+
+
+}
+
+
+/*Tablet uredjaji*/
+@media screen and (min-width:768px) and (max-width:1023px) { 
+
+
+p#telasajt {
+   
+    margin-left: 276px;
+
+}
+
+h1#textotesli {
+    margin-left: -300px;
+    margin-top: 200px;
+font-size: 44px;}
+
+
+p#textotesli {
+font-size: 18px;}
+
+
+
+p#textotesli.naslov {
+font-size: 18px;}
+
+
+
+h1#textizumi.naslov1 {
+    margin-left: 500px;
+    opacity: 1;
+}
+
+h1#textizumi {
+    margin-left: 100px;
+    margin-top: 200px;
+font-size: 37px;}
+
+
+
+p#textizumi.naslov1 {
+    margin-left: 500px;
+    font-size: 18px;
+}
+
+
+p#textizumi1.naslov1 {
+    margin-left: 500px;
+    font-size: 18px;
+}
+
+p#textizumi2.naslov1 {
+    margin-left: 500px;
+    font-size: 18px;
+}
+
+h1#transformatorh1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+h1#transformatorbgh1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+div#transformator {
+       margin-bottom: 60px;
+    font-size: 16px;
+}
+	
+img#grb {
+    width: 120px;
+    height: 120px;
+}
+p#transformatortext {
+    font-size: 15px;
+}
+
+div#kontaktfield {
+    opacity: 1;	
+
+}
+
+a#face{
+    margin-left: -100px;
+    opacity: 1;
+}
+
+a#pint {
+    margin-left: 40px;
+    margin-top: -30px;
+    position: absolute;
+    border-top: 1px solid #000;
+    padding: 10px;
+}
+div#kontaktfield{
+    opacity: 1;
+    margin-top: 70px;
+}
+
+
+p#adress {
+    font-size: 17px;
+}
+
+p#phone{
+	
+	  font-size: 17px;
+	
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*mobilni telefon*/
+
+@media screen and (max-width:480px) { 
+p#telasajt {
+ 
+    margin-left: 95px;
+
+}
+
+h1#transformatorh1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img#grb {
+    display: none;
+}
+
+
+div#slika1 {
+   
+    box-shadow: inset 400px 400px 400px #fff;
+}
+
+div#slika2 {
+   
+    box-shadow: inset 400px 400px 400px #fff;
+}
+
+.navbar-nav {
+    display: -webkit-inline-box;
+    margin: 7.5px -15px;
+}
+
+
+ul.nav.navbar-nav li a {
+font-size: 15px;}
+
+
+
+
+h1#textizumi {
+    margin-left: 170px;
+    opacity: 0;
+	    font-size: 30px;
+
+}
+
+p#textizumi {
+    margin-left: 170px;
+    font-size: 15px;opacity: 0;
+}
+
+p#textizumi1 {
+    margin-left: 170px;
+    font-size: 15px;opacity: 0;
+}
+
+
+p#textizumi2 {
+    margin-left: 170px;
+    font-size: 15px;opacity: 0;
+}
+
+
+
+
+
+
+
+h1#textizumi.naslov1 {
+    margin-left: 170px;
+    opacity: 1;
+	    font-size: 30px;
+
+}
+
+p#textizumi.naslov1 {
+    margin-left: 170px;
+    font-size: 15px;opacity: 1;
+}
+
+p#textizumi1.naslov1 {opacity: 1;
+    margin-left: 170px;
+    font-size: 15px;
+}
+
+
+p#textizumi2.naslov1 {opacity: 1;
+    margin-left: 170px;
+    font-size: 15px;
+}
+
+
+textarea {
+width: 250px;}
+footer#footer {
+    height: 320px;
+}
+p#teslinsajt {
+ 
+font-size: 23px;}
+
+ul#uli a {
+    font-family: serif;
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+    margin-left: -30px;
+    line-height: 40px;
+}
+
+div#potpisfooter {
+    display: none;
+}
+
+
+div#kontaktfield {
+    
+    margin-left: -23px;
+}
+
+
+
+}
+
