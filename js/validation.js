@@ -101,28 +101,7 @@ $("#username_error_message").hide();
 }
 	
 	
-	$("#registration_form").submit(function() {
- user_name=false;
-email_v=false;
- mess=false;
- 
- 
-		checkuser();
-	checkemail();
-	checktext();
 	
-
-
-if(user_name == false && email_v == false && mess == false) {
-			return true;
-		} else {
-			$(location).attr('href', 'http://www.sitefinity.com');
-			return false;	
-		}
-
-	
-		
-	});
 	
 	
 	
