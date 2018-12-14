@@ -575,7 +575,12 @@ button, input, select, textarea {
     background: #0003 !important;
 }
 
+div#btn {
+    margin-top: 20px;
+}
+
 div#btn a {
+	text-decoration:none;
     color: #000;
     transition: 300ms ease-in;
     background: #0000;
