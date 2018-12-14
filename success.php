@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   <link rel="stylesheet" href="css.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="js/menuscroll.js"></script>
+    <script src="js/validation.js"></script>
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAU8TQGufNCJIFqipk7Cf5YedREoMtY9Kc&callback=myMap"></script>
+  
+
+
+
+</head>
+<body>
+ 
+<div class="jumbotron text-center">
+
+
+<div id="glavnitext">
+<p id="telasajt">Vasa poruka je uspesno poslata</p>
+
+<img  src="img/sent1.png" width="200px" height="200px"/>
+<div id="goback"><a href="https://dejanrojin.github.io/tesla-sajt/"  >Nazad na sajt</a></div>
+</div>
+
+
+
+</div>
+
+
+
+
+ 
+
+
+
+
+
+</body>
+</html>
