@@ -574,12 +574,17 @@ button, input, select, textarea {
     border: 1px solid #000;
     background: #0003 !important;
 }
-    div#btn {
-		transition:300ms ease-in;
+
+div#btn a {
+    color: #000;
+    transition: 300ms ease-in;
     background: #0000;
     padding: 15px;
     border: 1px solid #000;
 }
+
+
+
 
     input#btn:hover {
     
