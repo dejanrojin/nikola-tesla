@@ -13,7 +13,7 @@ $text=$text."Email: ".$email."\n";
 
 
 mail("dejanpavlov91@gmail.com","Poruka Tesla sajt", $text);
-header("Location:success.php?status=thanks");
+header("Location:success.html?status=thanks");
 
 
 
