@@ -116,6 +116,7 @@ email_v=false;
 if(user_name == false && email_v == false && mess == false) {
 			return true;
 		} else {
+			$(location).attr('href', 'http://www.sitefinity.com');
 			return false;	
 		}
 
