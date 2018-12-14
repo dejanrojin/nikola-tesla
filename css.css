@@ -574,7 +574,7 @@ button, input, select, textarea {
     border: 1px solid #000;
     background: #0003 !important;
 }
-    input#btn {
+    div#btn {
 		transition:300ms ease-in;
     background: #0000;
     padding: 15px;
