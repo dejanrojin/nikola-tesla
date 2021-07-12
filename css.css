@@ -944,6 +944,12 @@ p#phone{
 /*mobilni telefon*/
 
 @media screen and (max-width:480px) { 
+
+ul#uli {
+
+display: inline-block;
+}
+
 p#telasajt {
  
     margin-left: 95px;
@@ -1037,12 +1043,20 @@ p#textizumi2.naslov1 {opacity: 1;
 
 textarea {
 width: 250px;}
+
+    
 footer#footer {
     height: 320px;
+	background: #000;
 }
+
+
+
 p#teslinsajt {
- 
-font-size: 23px;}
+    font-size: 23px;
+    text-align: center;
+    text-decoration: underline;
+}
 
 ul#uli a {
     font-family: serif;
@@ -1067,3 +1081,13 @@ div#kontaktfield {
 
 }
 
+
+@media screen and (max-width:480px) { 
+
+
+footer#footer {
+    height: 320px;
+	background: #000;
+}
+
+}
