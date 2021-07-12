@@ -945,6 +945,10 @@ p#phone{
 
 @media screen and (max-width:480px) { 
 
+#kontaktfield {
+    margin-left: 4px !important;
+}
+
 ul#uli {
 
 display: inline-block;
@@ -1082,8 +1086,11 @@ div#kontaktfield {
 }
 
 
-@media screen and (max-width:480px) { 
+@media screen and (max-width:375px) { 
 
+#registration_form {
+    margin-left: -30px;
+}
 
 footer#footer {
     height: 320px;
