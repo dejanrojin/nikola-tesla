@@ -1088,6 +1088,15 @@ div#kontaktfield {
 
 @media screen and (max-width:375px) { 
 
+
+a#toranj {
+   
+padding: 6px;}
+
+p#telasajt {
+    margin-left: 79px;
+}
+
 #registration_form {
     margin-left: -30px;
 }
