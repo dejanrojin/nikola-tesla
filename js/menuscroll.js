@@ -140,6 +140,9 @@ var x = setInterval(function() {
 }, 1000);
 
 
+jQuery(window).on('load', function(){
+  $('.preloader').fadeOut(1300);
+});
 
 
 
