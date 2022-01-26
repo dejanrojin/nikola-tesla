@@ -546,13 +546,14 @@ div#kontakttext {
 }
 
 
+
 footer#footer {
     height: 200px;
-    background: url(img/footer.png);
+    background: url(img/footer.png) center top;
     color: #fff;
     text-align: center;
     font-size: 15px;
-    background-size: 100% 100% !important;
+    background-size: 100% 119% !important;
 }
 
 
@@ -646,6 +647,154 @@ div#potpisfooter img.pokazi {opacity:1
 
 
 
+@media screen and (min-width:1920px) { 
+
+    .jumbotron {
+        padding-bottom: 504px !important;
+    }
+    
+    div#slika1 {
+        height: 1050px;
+    
+    }
+
+    div#slika11 {
+     
+        height: 1050px;}
+
+        div#slika2 {
+     
+            height: 1050px;}
+
+
+        div#slika22 {
+     
+            height: 1050px;}
+
+
+            h1#textizumi.naslov1 {
+                margin-left: 1574px;}
+
+                p#textizumi.naslov1{
+
+                    margin-left: 1574px;
+
+                }
+
+                p#textizumi1.naslov1{
+
+                    margin-left: 1574px;
+
+                } 
+
+                p#textizumi2.naslov1{
+
+                    margin-left: 1574px;
+
+                }
+
+
+                #kontaktform {
+              
+                    height: 1050px;}
+
+                div#slika3 {
+                    height: 1050px;
+                
+                }
+                p#zelja {
+                    font-style: italic;
+                    color: #ffffff78;
+                    font-family: serif;
+                    margin-top: 51px;}
+
+                    p#telasajt {
+                       
+                        margin-left: 840px;
+                        margin-top: 300px;
+                    }
+
+                        div#transformator {
+                            padding: 220px;}
+
+
+    }
+
+
+
+    @media screen and (min-width:1680px) { 
+
+        .jumbotron {
+            padding-bottom: 504px !important;
+        }
+        
+        div#slika1 {
+            height: 1050px;
+        
+        }
+    
+        div#slika11 {
+         
+            height: 1050px;}
+    
+            div#slika2 {
+         
+                height: 1050px;}
+    
+    
+            div#slika22 {
+         
+                height: 1050px;}
+    
+    
+                h1#textizumi.naslov1 {
+                    margin-left: 1574px;}
+    
+                    p#textizumi.naslov1{
+    
+                        margin-left: 1574px;
+    
+                    }
+    
+                    p#textizumi1.naslov1{
+    
+                        margin-left: 1574px;
+    
+                    } 
+    
+                    p#textizumi2.naslov1{
+    
+                        margin-left: 1574px;
+    
+                    }
+    
+    
+                    #kontaktform {
+                  
+                        height: 1050px;}
+    
+                    div#slika3 {
+                        height: 1050px;
+                    
+                    }
+                    p#zelja {
+                        font-style: italic;
+                        color: #ffffff78;
+                        font-family: serif;
+                        margin-top: 51px;}
+    
+                        p#telasajt {
+                           
+                            margin-left: 840px;
+                            margin-top: 300px;
+                        }
+    
+                            div#transformator {
+                                padding: 220px;}
+    
+    
+        }
+    
 
 
 
@@ -1022,26 +1171,26 @@ p#textizumi2 {
 
 
 h1#textizumi.naslov1 {
-    margin-left: 170px;
+    margin-left: -1px;
     opacity: 1;
 	    font-size: 30px;
 
 }
 
 p#textizumi.naslov1 {
-    margin-left: 170px;
-    font-size: 15px;opacity: 1;
+    margin-left: -1px;
+    font-size: 22px;opacity: 1;
 }
 
 p#textizumi1.naslov1 {opacity: 1;
-    margin-left: 170px;
-    font-size: 15px;
+    margin-left: -1px;
+    font-size: 22px;
 }
 
 
 p#textizumi2.naslov1 {opacity: 1;
-    margin-left: 170px;
-    font-size: 15px;
+    margin-left: -1px;
+    font-size: 22px;
 }
 
 
@@ -1105,5 +1254,19 @@ footer#footer {
     height: 320px;
 	background: #000;
 }
+
+h1#textotesli.naslov {
+    font-size: 30px;
+    margin-left: -1px;}
+
+    p#textizumi.naslov1 {
+        margin-left: -1px;}
+
+        p#textizumi1.naslov1 {
+            margin-left: -1px;}
+
+
+            p#textizumi2.naslov1 {
+                margin-left: -1px;}
 
 }
