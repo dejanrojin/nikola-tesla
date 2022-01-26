@@ -52,6 +52,8 @@ function validateForm() {
 </head>
 <body>
  
+  <div class="preloader"></div>
+
 <div class="jumbotron text-center">
 
 <nav id="navbar" class="navbar navbar-default">
@@ -304,6 +306,9 @@ $("a#kontakt").click(function() {
 
 
 
+$(window).load(function() {
+   $('.preloader').fadeOut(1300);
+});
 
 
 
