@@ -1,3 +1,17 @@
+.preloaderairplane {
+    opacity:0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-image: url('img/loader.gif');
+    background-repeat: no-repeat; 
+    background-color: #FFF;
+    background-position: center;
+ }
+
 span#username_error_message {
     font-size: 14px;
     margin-left: 15px;
