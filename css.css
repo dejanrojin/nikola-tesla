@@ -1204,11 +1204,11 @@ footer#footer {
 }
 
 
-
 p#teslinsajt {
     font-size: 23px;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: none;
+    margin-left: -39px;
 }
 
 ul#uli a {
