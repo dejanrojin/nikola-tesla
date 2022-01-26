@@ -24,7 +24,7 @@ $(document).ready(function() {
 		$('p#textotesli2').addClass('naslov');
 		$('p#textotesli3').addClass('naslov');
     }
-    else {
+    /*else {
     $('h1#textotesli').removeClass('naslov');
 		$('p#textotesli').removeClass('naslov');
 	$('p#textotesli1').removeClass('naslov');
@@ -32,6 +32,7 @@ $(document).ready(function() {
 		$('p#textotesli3').removeClass('naslov');
 	
     }
+    	*/
   });
   
   });
@@ -49,7 +50,7 @@ $(document).ready(function() {
 		$('p#textizumi2').addClass('naslov1');
 	
     }
-    else {
+   /* else {
     $('h1#textizumi').removeClass('naslov1');
 		$('p#textizumi').removeClass('naslov1');
 	$('p#textizumi1').removeClass('naslov1');
@@ -57,6 +58,7 @@ $(document).ready(function() {
 	
 	
     }
+    */
   });
   
   });
@@ -109,7 +111,7 @@ $(document).ready(function() {
   
   
   
-  var countDownDate = new Date("Sep 5, 2019 15:37:25").getTime();
+  var countDownDate = new Date("Sep 5, 2029 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -136,10 +138,6 @@ var x = setInterval(function() {
         document.getElementById("demo").innerHTML = "EXPIRED";
     }
 }, 1000);
-
-
-
-
 
 
 
