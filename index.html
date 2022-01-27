@@ -12,6 +12,8 @@
   <script src="js/menuscroll.js"></script>
     <script src="js/validation.js"></script>
   
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -52,9 +54,11 @@ function validateForm() {
 </head>
 <body>
  
-  <div class="preloader"></div>
+  
 
 <div class="jumbotron text-center">
+
+
 
 <nav id="navbar" class="navbar navbar-default">
  
@@ -68,6 +72,8 @@ function validateForm() {
     </ul>
 
 </nav>
+
+<div class="preloader"></div>
 <div id="glavnitext">
 <p id="telasajt">Tesla Sajt</p>
 <p id="zelja">Ako bi se moje nade ostvarile, najuzbudljivija činjenica<br> bi bila to da je to delo jednog Srbina<br id="desno">""</p>
@@ -303,7 +309,6 @@ $("a#kontakt").click(function() {
         scrollTop: $("div#kontaktform").offset().top
     }, 1500);
 });
-
 
 
 
