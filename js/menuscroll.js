@@ -147,7 +147,7 @@ var x = setInterval(function() {
  
 
 jQuery(window).on('load', function(){
-  $('.preloader').fadeOut(1300);
+  $('.preloader').fadeOut(3900);
 });
 
 
