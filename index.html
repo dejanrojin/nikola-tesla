@@ -318,7 +318,14 @@ $("a#kontakt").click(function() {
 });
 
 
+ var burger=document.querySelector(".burgermenu");
+var header=document.querySelector(".navbar");
 
+burger.addEventListener("click",function(){
+
+    header.classList.toggle("openheader");
+
+})
 
 
 
