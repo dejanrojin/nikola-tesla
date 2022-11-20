@@ -1,8 +1,4 @@
 
-.openheader {
-    opacity: 1;
-    width: 100%;
-}
 
 
 
@@ -1287,8 +1283,8 @@ div#kontaktfield {
   width:0%;
     }
     .openheader {
-        opacity: 1;
-        width: 100%;
+        opacity: 1!important;
+        width: 100%!important;
     } 	
 
 		
