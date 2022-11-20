@@ -1277,7 +1277,7 @@ div#kontaktfield {
 	
  .navbar-default {
         opacity: 0;
-        background: rgb(246, 247, 241);
+        background: rgb(246, 247, 241)!important;
         height: 100%!important;
         clip-path: polygon(0 1%, 100% 0, 100% 100%, 0% 100%);
   width:0%;
