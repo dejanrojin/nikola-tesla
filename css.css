@@ -1275,7 +1275,7 @@ div#kontaktfield {
 @media screen and (max-width:375px) { 
 
 	
- .navbar {
+ .navbar-default {
         opacity: 0;
         background: rgb(246, 247, 241);
         height: 100%!important;
