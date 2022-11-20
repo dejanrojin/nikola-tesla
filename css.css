@@ -1285,7 +1285,8 @@ div#kontaktfield {
     clip-path: polygon(0 1%, 100% 0, 100% 100%, 0% 100%);
     width: 0%;
 }	
-	
+
+		
 .burgermenu {
     opacity: 1;
     right: 10px;
@@ -1303,8 +1304,31 @@ div#kontaktfield {
     flex-direction: column;
     top: 4px;
 }	
-	
 
+	
+.burgermenu div {
+    margin: 3px;
+}	
+	
+.burger1 {
+    background: #d4c7be;
+    height: 4px;
+    width: 30px;
+}	
+
+.burger2 {
+    background: #d4c7be;
+    height: 4px;
+    width: 30px;
+}
+	
+.burger3 {
+    background: #d4c7be;
+    height: 4px;
+    width: 30px;
+}	
+	
+	
 a#toranj {
    
 padding: 6px;}
