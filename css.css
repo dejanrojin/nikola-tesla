@@ -1,3 +1,28 @@
+
+.openheader {
+    opacity: 1;
+    width: 100%;
+}
+
+
+.burgermenu {
+    opacity: 1;
+    right: 10px;
+    background: #0000;
+    width: 30px;
+    height: 30px;
+    z-index: 9999999999;
+    position: fixed;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    top: 4px;
+}
+
 .preloader {
   
     position: absolute;
